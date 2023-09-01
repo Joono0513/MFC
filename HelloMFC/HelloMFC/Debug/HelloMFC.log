@@ -1,0 +1,4 @@
+﻿  HelloMFC.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  HelloMFC.vcxproj -> D:\D_Download\Practice\Git\HelloMFC\Debug\HelloMFC.exe
+  HelloMFC.vcxproj -> D:\D_Download\Practice\Git\HelloMFC\Debug\HelloMFC.pdb (Full PDB)
